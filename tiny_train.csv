@@ -1,0 +1,25 @@
+Prompt,input_text,output_text,num_nodes
+"###Instruction:
+Below is the detail of a knowledge graph path.
+Is node 904 connected with node 2887?
+Answer the following yes/no question by reasoning step-by-step. Answer the question by reasoning step-by-step. Choose from the given options:
+1. Yes
+2. No
+
+###Input:
+node_904 has relation_16 with node_11266. node_11266 has relation_9 with node_2887. 
+
+###Response:",node_904 has relation_16 with node_11266. node_11266 has relation_9 with node_2887. ,"###Response:
+node_904 has relation_16 with node_11266, means entity_APT33 hasproduct entity_Shamoon. node_11266 has relation_9 with node_2887, means entity_Shamoon targets entity_Saudi Arabia.  The answer is yes.",3
+"###Instruction:
+Below is the detail of a knowledge graph path.
+Is node 7881 connected with node 6222?
+Answer the following yes/no question by reasoning step-by-step. Answer the question by reasoning step-by-step. Choose from the given options:
+1. Yes
+2. No
+
+###Input:
+node_7881 has relation_9 with node_2309. node_2309 has relation_16 with node_4816. node_4816 has relation_8 with node_8028. node_8028 has relation_15 with node_5831. node_5831 has relation_3 with node_6222. 
+
+###Response:",node_7881 has relation_9 with node_2309. node_2309 has relation_16 with node_4816. node_4816 has relation_8 with node_8028. node_8028 has relation_15 with node_5831. node_5831 has relation_3 with node_6222. ,"###Response:
+node_7881 has relation_9 with node_2309, means entity_ZeroCleare¡± targets entity_Windows. node_2309 has relation_16 with node_4816, means entity_Windows hasproduct entity_Trojan. node_4816 has relation_8 with node_8028, means entity_Trojan indicates entity_Russian. node_8028 has relation_15 with node_5831, means entity_Russian hasattacklocation entity_first. node_5831 has relation_3 with node_6222, means entity_first hasattacktime entity_March 2015.  The answer is no.",6 
