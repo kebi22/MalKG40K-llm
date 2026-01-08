@@ -1,0 +1,385 @@
+2025-07-24 17:59:41,776 |  INFO | Using Apple Silicon GPU (MPS)
+2025-07-24 17:59:41,776 |  INFO | Device: mps
+2025-07-24 17:59:41,776 |  INFO | Loading balanced datasets...
+2025-07-24 17:59:41,776 |  INFO | Loading combined train and val datasets (train.pt, val.pt)
+2025-07-24 18:00:04,940 |  INFO | Loading path-specific test datasets
+2025-07-24 18:00:10,147 |  INFO | Loaded test data for path length 3: 412 samples
+2025-07-24 18:00:15,061 |  INFO | Loaded test data for path length 4: 1068 samples
+2025-07-24 18:00:15,133 |  INFO | Train: 48852 samples, 24426 pos, 24426 neg, 0.500 pos ratio
+2025-07-24 18:00:15,186 |  INFO | Train path lengths: {3: 1316, 4: 3412, 5: 10616, 6: 33508}
+2025-07-24 18:00:15,203 |  INFO | Validation: 12218 samples, 6109 pos, 6109 neg, 0.500 pos ratio
+2025-07-24 18:00:15,217 |  INFO | Validation path lengths: {3: 330, 4: 854, 5: 2656, 6: 8378}
+2025-07-24 18:00:15,218 |  INFO | Test: 1480 samples, 740 pos, 740 neg, 0.500 pos ratio
+2025-07-24 18:00:15,220 |  INFO | Test path lengths: {3: 412, 4: 1068}
+2025-07-24 18:00:15,223 |  INFO | Number of node features: 6176
+2025-07-24 18:01:59,733 |  INFO | Using Apple Silicon GPU (MPS)
+2025-07-24 18:01:59,733 |  INFO | Device: mps
+2025-07-24 18:01:59,733 |  INFO | Loading balanced datasets...
+2025-07-24 18:01:59,733 |  INFO | Loading combined train and val datasets (train.pt, val.pt)
+2025-07-24 18:02:03,265 |  INFO | Loading path-specific test datasets
+2025-07-24 18:02:03,343 |  INFO | Loaded test data for path length 3: 412 samples
+2025-07-24 18:02:03,828 |  INFO | Loaded test data for path length 4: 1068 samples
+2025-07-24 18:02:03,896 |  INFO | Train: 48852 samples, 24426 pos, 24426 neg, 0.500 pos ratio
+2025-07-24 18:02:03,944 |  INFO | Train path lengths: {3: 1316, 4: 3412, 5: 10616, 6: 33508}
+2025-07-24 18:02:03,960 |  INFO | Validation: 12218 samples, 6109 pos, 6109 neg, 0.500 pos ratio
+2025-07-24 18:02:03,975 |  INFO | Validation path lengths: {3: 330, 4: 854, 5: 2656, 6: 8378}
+2025-07-24 18:02:03,977 |  INFO | Test: 1480 samples, 740 pos, 740 neg, 0.500 pos ratio
+2025-07-24 18:02:03,977 |  INFO | Test path lengths: {3: 412, 4: 1068}
+2025-07-24 18:02:03,978 |  INFO | Number of node features: 6176
+2025-07-24 18:02:04,008 |  INFO | Starting training for 10 epochs
+2025-07-24 18:02:04,008 |  INFO | Model: sage, Device: mps
+2025-07-24 18:07:03,051 |  INFO | Using Apple Silicon GPU (MPS)
+2025-07-24 18:07:03,052 |  INFO | Device: mps
+2025-07-24 18:07:03,052 |  INFO | Loading balanced datasets...
+2025-07-24 18:07:03,052 |  INFO | Loading combined train and val datasets (train.pt, val.pt)
+2025-07-24 18:07:06,707 |  INFO | Loading path-specific test datasets
+2025-07-24 18:07:06,787 |  INFO | Loaded test data for path length 3: 412 samples
+2025-07-24 18:07:07,317 |  INFO | Loaded test data for path length 4: 1068 samples
+2025-07-24 18:07:07,384 |  INFO | Train: 48852 samples, 24426 pos, 24426 neg, 0.500 pos ratio
+2025-07-24 18:07:07,432 |  INFO | Train path lengths: {3: 1316, 4: 3412, 5: 10616, 6: 33508}
+2025-07-24 18:07:07,447 |  INFO | Validation: 12218 samples, 6109 pos, 6109 neg, 0.500 pos ratio
+2025-07-24 18:07:07,462 |  INFO | Validation path lengths: {3: 330, 4: 854, 5: 2656, 6: 8378}
+2025-07-24 18:07:07,464 |  INFO | Test: 1480 samples, 740 pos, 740 neg, 0.500 pos ratio
+2025-07-24 18:07:07,465 |  INFO | Test path lengths: {3: 412, 4: 1068}
+2025-07-24 18:07:07,465 |  INFO | Number of node features: 6176
+2025-07-24 18:07:07,496 |  INFO | Starting training for 10 epochs
+2025-07-24 18:07:07,496 |  INFO | Model: sage, Device: mps
+2025-07-24 18:08:00,748 |  INFO | Using Apple Silicon GPU (MPS)
+2025-07-24 18:08:00,748 |  INFO | Device: mps
+2025-07-24 18:08:00,748 |  INFO | Loading balanced datasets...
+2025-07-24 18:08:00,748 |  INFO | Loading combined train and val datasets (train.pt, val.pt)
+2025-07-24 18:08:04,286 |  INFO | Loading path-specific test datasets
+2025-07-24 18:08:04,358 |  INFO | Loaded test data for path length 3: 412 samples
+2025-07-24 18:08:04,875 |  INFO | Loaded test data for path length 4: 1068 samples
+2025-07-24 18:08:04,943 |  INFO | Train: 48852 samples, 24426 pos, 24426 neg, 0.500 pos ratio
+2025-07-24 18:08:04,992 |  INFO | Train path lengths: {3: 1316, 4: 3412, 5: 10616, 6: 33508}
+2025-07-24 18:08:05,007 |  INFO | Validation: 12218 samples, 6109 pos, 6109 neg, 0.500 pos ratio
+2025-07-24 18:08:05,021 |  INFO | Validation path lengths: {3: 330, 4: 854, 5: 2656, 6: 8378}
+2025-07-24 18:08:05,023 |  INFO | Test: 1480 samples, 740 pos, 740 neg, 0.500 pos ratio
+2025-07-24 18:08:05,024 |  INFO | Test path lengths: {3: 412, 4: 1068}
+2025-07-24 18:08:05,024 |  INFO | Number of node features: 6176
+2025-07-24 18:08:05,053 |  INFO | Starting training for 10 epochs
+2025-07-24 18:08:05,053 |  INFO | Model: sage, Device: mps
+2025-07-24 18:08:49,166 |  INFO | Using Apple Silicon GPU (MPS)
+2025-07-24 18:08:49,166 |  INFO | Device: mps
+2025-07-24 18:08:49,166 |  INFO | Loading balanced datasets...
+2025-07-24 18:08:49,166 |  INFO | Loading combined train and val datasets (train.pt, val.pt)
+2025-07-24 18:08:52,764 |  INFO | Loading path-specific test datasets
+2025-07-24 18:08:52,834 |  INFO | Loaded test data for path length 3: 412 samples
+2025-07-24 18:08:53,409 |  INFO | Loaded test data for path length 4: 1068 samples
+2025-07-24 18:08:53,479 |  INFO | Train: 48852 samples, 24426 pos, 24426 neg, 0.500 pos ratio
+2025-07-24 18:08:53,530 |  INFO | Train path lengths: {3: 1316, 4: 3412, 5: 10616, 6: 33508}
+2025-07-24 18:08:53,545 |  INFO | Validation: 12218 samples, 6109 pos, 6109 neg, 0.500 pos ratio
+2025-07-24 18:08:53,559 |  INFO | Validation path lengths: {3: 330, 4: 854, 5: 2656, 6: 8378}
+2025-07-24 18:08:53,560 |  INFO | Test: 1480 samples, 740 pos, 740 neg, 0.500 pos ratio
+2025-07-24 18:08:53,561 |  INFO | Test path lengths: {3: 412, 4: 1068}
+2025-07-24 18:08:53,561 |  INFO | Number of node features: 6176
+2025-07-24 18:08:53,589 |  INFO | Starting training for 10 epochs
+2025-07-24 18:08:53,589 |  INFO | Model: sage, Device: mps
+2025-07-24 18:09:49,508 |  INFO | Using Apple Silicon GPU (MPS)
+2025-07-24 18:09:49,508 |  INFO | Device: mps
+2025-07-24 18:09:49,508 |  INFO | Loading balanced datasets...
+2025-07-24 18:09:49,508 |  INFO | Loading combined train and val datasets (train.pt, val.pt)
+2025-07-24 18:09:53,067 |  INFO | Loading path-specific test datasets
+2025-07-24 18:09:53,142 |  INFO | Loaded test data for path length 3: 412 samples
+2025-07-24 18:09:53,671 |  INFO | Loaded test data for path length 4: 1068 samples
+2025-07-24 18:09:53,740 |  INFO | Train: 48852 samples, 24426 pos, 24426 neg, 0.500 pos ratio
+2025-07-24 18:09:53,790 |  INFO | Train path lengths: {3: 1316, 4: 3412, 5: 10616, 6: 33508}
+2025-07-24 18:09:53,806 |  INFO | Validation: 12218 samples, 6109 pos, 6109 neg, 0.500 pos ratio
+2025-07-24 18:09:53,822 |  INFO | Validation path lengths: {3: 330, 4: 854, 5: 2656, 6: 8378}
+2025-07-24 18:09:53,824 |  INFO | Test: 1480 samples, 740 pos, 740 neg, 0.500 pos ratio
+2025-07-24 18:09:53,826 |  INFO | Test path lengths: {3: 412, 4: 1068}
+2025-07-24 18:09:53,826 |  INFO | Number of node features: 6176
+2025-07-24 18:09:53,855 |  INFO | Starting training for 10 epochs
+2025-07-24 18:09:53,856 |  INFO | Model: sage, Device: mps
+2025-07-24 18:10:35,712 |  INFO | Using Apple Silicon GPU (MPS)
+2025-07-24 18:10:35,712 |  INFO | Device: mps
+2025-07-24 18:10:35,712 |  INFO | Loading balanced datasets...
+2025-07-24 18:10:35,712 |  INFO | Loading combined train and val datasets (train.pt, val.pt)
+2025-07-24 18:10:39,261 |  INFO | Loading path-specific test datasets
+2025-07-24 18:10:39,335 |  INFO | Loaded test data for path length 3: 412 samples
+2025-07-24 18:10:39,844 |  INFO | Loaded test data for path length 4: 1068 samples
+2025-07-24 18:10:39,914 |  INFO | Train: 48852 samples, 24426 pos, 24426 neg, 0.500 pos ratio
+2025-07-24 18:10:39,965 |  INFO | Train path lengths: {3: 1316, 4: 3412, 5: 10616, 6: 33508}
+2025-07-24 18:10:39,980 |  INFO | Validation: 12218 samples, 6109 pos, 6109 neg, 0.500 pos ratio
+2025-07-24 18:10:39,996 |  INFO | Validation path lengths: {3: 330, 4: 854, 5: 2656, 6: 8378}
+2025-07-24 18:10:39,998 |  INFO | Test: 1480 samples, 740 pos, 740 neg, 0.500 pos ratio
+2025-07-24 18:10:40,000 |  INFO | Test path lengths: {3: 412, 4: 1068}
+2025-07-24 18:10:40,000 |  INFO | Number of node features: 6176
+2025-07-24 18:10:40,027 |  INFO | Starting training for 10 epochs
+2025-07-24 18:10:40,027 |  INFO | Model: sage, Device: mps
+2025-07-24 18:11:26,367 |  INFO | Using Apple Silicon GPU (MPS)
+2025-07-24 18:11:26,367 |  INFO | Device: mps
+2025-07-24 18:11:26,367 |  INFO | Loading balanced datasets...
+2025-07-24 18:11:26,367 |  INFO | Loading combined train and val datasets (train.pt, val.pt)
+2025-07-24 18:11:29,918 |  INFO | Loading path-specific test datasets
+2025-07-24 18:11:29,989 |  INFO | Loaded test data for path length 3: 412 samples
+2025-07-24 18:11:30,516 |  INFO | Loaded test data for path length 4: 1068 samples
+2025-07-24 18:11:30,587 |  INFO | Train: 48852 samples, 24426 pos, 24426 neg, 0.500 pos ratio
+2025-07-24 18:11:30,637 |  INFO | Train path lengths: {3: 1316, 4: 3412, 5: 10616, 6: 33508}
+2025-07-24 18:11:30,653 |  INFO | Validation: 12218 samples, 6109 pos, 6109 neg, 0.500 pos ratio
+2025-07-24 18:11:30,667 |  INFO | Validation path lengths: {3: 330, 4: 854, 5: 2656, 6: 8378}
+2025-07-24 18:11:30,669 |  INFO | Test: 1480 samples, 740 pos, 740 neg, 0.500 pos ratio
+2025-07-24 18:11:30,670 |  INFO | Test path lengths: {3: 412, 4: 1068}
+2025-07-24 18:11:30,670 |  INFO | Number of node features: 6176
+2025-07-24 18:11:30,695 |  INFO | Starting training for 10 epochs
+2025-07-24 18:11:30,695 |  INFO | Model: sage, Device: mps
+2025-07-24 18:15:02,968 |  INFO | Using Apple Silicon GPU (MPS)
+2025-07-24 18:15:02,968 |  INFO | Device: mps
+2025-07-24 18:15:02,968 |  INFO | Loading balanced datasets...
+2025-07-24 18:15:02,968 |  INFO | Loading combined train and val datasets (train.pt, val.pt)
+2025-07-24 18:15:06,475 |  INFO | Loading path-specific test datasets
+2025-07-24 18:15:06,552 |  INFO | Loaded test data for path length 3: 412 samples
+2025-07-24 18:15:07,025 |  INFO | Loaded test data for path length 4: 1068 samples
+2025-07-24 18:15:07,092 |  INFO | Train: 48852 samples, 24426 pos, 24426 neg, 0.500 pos ratio
+2025-07-24 18:15:07,141 |  INFO | Train path lengths: {3: 1316, 4: 3412, 5: 10616, 6: 33508}
+2025-07-24 18:15:07,155 |  INFO | Validation: 12218 samples, 6109 pos, 6109 neg, 0.500 pos ratio
+2025-07-24 18:15:07,168 |  INFO | Validation path lengths: {3: 330, 4: 854, 5: 2656, 6: 8378}
+2025-07-24 18:15:07,170 |  INFO | Test: 1480 samples, 740 pos, 740 neg, 0.500 pos ratio
+2025-07-24 18:15:07,171 |  INFO | Test path lengths: {3: 412, 4: 1068}
+2025-07-24 18:15:07,171 |  INFO | Number of node features: 6176
+2025-07-24 18:15:07,203 |  INFO | Starting training for 10 epochs
+2025-07-24 18:15:07,203 |  INFO | Model: sage, Device: mps
+2025-07-24 18:17:15,738 |  INFO | Using Apple Silicon GPU (MPS)
+2025-07-24 18:17:15,738 |  INFO | Device: mps
+2025-07-24 18:17:15,739 |  INFO | Loading balanced datasets...
+2025-07-24 18:17:15,739 |  INFO | Loading combined train and val datasets (train.pt, val.pt)
+2025-07-24 18:17:19,260 |  INFO | Loading path-specific test datasets
+2025-07-24 18:17:19,339 |  INFO | Loaded test data for path length 3: 412 samples
+2025-07-24 18:17:19,829 |  INFO | Loaded test data for path length 4: 1068 samples
+2025-07-24 18:17:19,895 |  INFO | Train: 48852 samples, 24426 pos, 24426 neg, 0.500 pos ratio
+2025-07-24 18:17:19,942 |  INFO | Train path lengths: {3: 1316, 4: 3412, 5: 10616, 6: 33508}
+2025-07-24 18:17:19,957 |  INFO | Validation: 12218 samples, 6109 pos, 6109 neg, 0.500 pos ratio
+2025-07-24 18:17:19,971 |  INFO | Validation path lengths: {3: 330, 4: 854, 5: 2656, 6: 8378}
+2025-07-24 18:17:19,973 |  INFO | Test: 1480 samples, 740 pos, 740 neg, 0.500 pos ratio
+2025-07-24 18:17:19,974 |  INFO | Test path lengths: {3: 412, 4: 1068}
+2025-07-24 18:17:19,974 |  INFO | Number of node features: 6176
+2025-07-24 18:17:20,004 |  INFO | Starting training for 10 epochs
+2025-07-24 18:17:20,004 |  INFO | Model: sage, Device: mps
+2025-07-24 18:36:38,218 |  INFO | val - Loss: 10.7862, AUC: 0.9579, AP: 0.9474
+2025-07-24 18:36:38,218 |  INFO | val - Accuracy: 0.9037, F1: 0.9063, Precision: 0.8829, Recall: 0.9309
+2025-07-24 18:36:38,218 |  INFO | Epoch   0 - Train Loss: 0.3160, Val Loss: 10.7862, Val AUC: 0.9579, Val Acc: 0.9037, Val F1: 0.9063
+2025-07-24 18:36:38,237 |  INFO | New best model saved! Val AUC: 0.9579
+2025-07-24 19:24:23,664 |  INFO | val - Loss: 39.0360, AUC: 0.9600, AP: 0.9438
+2025-07-24 19:24:23,665 |  INFO | val - Accuracy: 0.9059, F1: 0.9084, Precision: 0.8845, Recall: 0.9337
+2025-07-24 19:24:23,679 |  INFO | New best model saved! Val AUC: 0.9600
+2025-07-24 19:43:18,464 |  INFO | val - Loss: 9.9211, AUC: 0.9656, AP: 0.9577
+2025-07-24 19:43:18,465 |  INFO | val - Accuracy: 0.9150, F1: 0.9173, Precision: 0.8934, Recall: 0.9425
+2025-07-24 19:43:18,478 |  INFO | New best model saved! Val AUC: 0.9656
+2025-07-24 20:02:09,053 |  INFO | val - Loss: 29.0211, AUC: 0.9647, AP: 0.9535
+2025-07-24 20:02:09,053 |  INFO | val - Accuracy: 0.9143, F1: 0.9157, Precision: 0.9015, Recall: 0.9303
+2025-07-24 20:24:28,479 |  INFO | val - Loss: 4.2508, AUC: 0.9653, AP: 0.9564
+2025-07-24 20:24:28,480 |  INFO | val - Accuracy: 0.9129, F1: 0.9172, Precision: 0.8740, Recall: 0.9650
+2025-07-24 20:43:20,438 |  INFO | val - Loss: 15.7196, AUC: 0.9672, AP: 0.9574
+2025-07-24 20:43:20,438 |  INFO | val - Accuracy: 0.9156, F1: 0.9169, Precision: 0.9033, Recall: 0.9309
+2025-07-24 20:43:20,452 |  INFO | New best model saved! Val AUC: 0.9672
+2025-07-24 21:02:14,066 |  INFO | val - Loss: 5.6012, AUC: 0.9674, AP: 0.9594
+2025-07-24 21:02:14,066 |  INFO | val - Accuracy: 0.9173, F1: 0.9203, Precision: 0.8879, Recall: 0.9551
+2025-07-24 21:02:14,080 |  INFO | New best model saved! Val AUC: 0.9674
+2025-07-24 21:21:11,121 |  INFO | val - Loss: 4.0679, AUC: 0.9694, AP: 0.9615
+2025-07-24 21:21:11,122 |  INFO | val - Accuracy: 0.9204, F1: 0.9231, Precision: 0.8921, Recall: 0.9565
+2025-07-24 21:21:11,136 |  INFO | New best model saved! Val AUC: 0.9694
+2025-07-24 21:40:04,156 |  INFO | val - Loss: 4.4422, AUC: 0.9681, AP: 0.9586
+2025-07-24 21:40:04,157 |  INFO | val - Accuracy: 0.9174, F1: 0.9210, Precision: 0.8828, Recall: 0.9627
+2025-07-24 22:00:28,621 |  INFO | val - Loss: 3.7056, AUC: 0.9700, AP: 0.9623
+2025-07-24 22:00:28,622 |  INFO | val - Accuracy: 0.9207, F1: 0.9226, Precision: 0.9008, Recall: 0.9455
+2025-07-24 22:00:28,636 |  INFO | New best model saved! Val AUC: 0.9700
+2025-07-24 22:08:03,442 |  INFO | Using Apple Silicon GPU (MPS)
+2025-07-24 22:08:03,442 |  INFO | Device: mps
+2025-07-24 22:08:03,442 |  INFO | Loading balanced datasets...
+2025-07-24 22:08:03,442 |  INFO | Loading combined train and val datasets (train.pt, val.pt)
+2025-07-24 22:08:06,919 |  INFO | Loading path-specific test datasets
+2025-07-24 22:08:07,007 |  INFO | Loaded test data for path length 3: 412 samples
+2025-07-24 22:08:07,496 |  INFO | Loaded test data for path length 4: 1068 samples
+2025-07-24 22:08:07,562 |  INFO | Train: 48852 samples, 24426 pos, 24426 neg, 0.500 pos ratio
+2025-07-24 22:08:07,608 |  INFO | Train path lengths: {3: 1316, 4: 3412, 5: 10616, 6: 33508}
+2025-07-24 22:08:07,623 |  INFO | Validation: 12218 samples, 6109 pos, 6109 neg, 0.500 pos ratio
+2025-07-24 22:08:07,638 |  INFO | Validation path lengths: {3: 330, 4: 854, 5: 2656, 6: 8378}
+2025-07-24 22:08:07,639 |  INFO | Test: 1480 samples, 740 pos, 740 neg, 0.500 pos ratio
+2025-07-24 22:08:07,640 |  INFO | Test path lengths: {3: 412, 4: 1068}
+2025-07-24 22:08:07,641 |  INFO | Number of node features: 6176
+2025-07-24 22:08:07,669 |  INFO | Starting training for 10 epochs
+2025-07-24 22:08:07,669 |  INFO | Model: sage, Device: mps
+2025-07-31 15:26:39,204 |  INFO | Using Apple Silicon GPU (MPS)
+2025-07-31 15:26:39,204 |  INFO | Device: mps
+2025-07-31 15:26:39,204 |  INFO | Loading balanced datasets...
+2025-07-31 15:26:39,204 |  INFO | Loading path-specific train and val datasets
+2025-07-31 15:26:39,204 |  INFO | Loading path-specific test datasets
+2025-07-31 15:26:39,204 |  INFO | Train: Empty dataset
+2025-07-31 15:26:39,204 |  INFO | Validation: Empty dataset
+2025-07-31 15:26:39,204 |  INFO | Test: Empty dataset
+2025-07-31 15:26:39,204 | ERROR | Empty datasets! Check data directory and path lengths.
+2025-07-31 15:29:23,683 |  INFO | Using Apple Silicon GPU (MPS)
+2025-07-31 15:29:23,683 |  INFO | Device: mps
+2025-07-31 15:29:23,683 |  INFO | Loading balanced datasets...
+2025-07-31 15:29:23,683 |  INFO | Loading combined train and val datasets (train.pt, val.pt)
+2025-07-31 15:29:27,336 |  INFO | Loading path-specific test datasets
+2025-07-31 15:29:27,430 |  INFO | Loaded test data for path length 3: 412 samples
+2025-07-31 15:29:27,964 |  INFO | Loaded test data for path length 4: 1068 samples
+2025-07-31 15:29:36,994 |  INFO | Loaded test data for path length 5: 3320 samples
+2025-07-31 15:29:44,387 |  INFO | Loaded test data for path length 6: 10472 samples
+2025-07-31 15:29:44,458 |  INFO | Train: 48852 samples, 24426 pos, 24426 neg, 0.500 pos ratio
+2025-07-31 15:29:44,509 |  INFO | Train path lengths: {3: 1316, 4: 3412, 5: 10616, 6: 33508}
+2025-07-31 15:29:44,524 |  INFO | Validation: 12218 samples, 6109 pos, 6109 neg, 0.500 pos ratio
+2025-07-31 15:29:44,539 |  INFO | Validation path lengths: {3: 330, 4: 854, 5: 2656, 6: 8378}
+2025-07-31 15:29:44,562 |  INFO | Test: 15272 samples, 7636 pos, 7636 neg, 0.500 pos ratio
+2025-07-31 15:29:44,581 |  INFO | Test path lengths: {3: 412, 4: 1068, 5: 3320, 6: 10472}
+2025-07-31 15:29:44,582 |  INFO | Number of node features: 6176
+2025-07-31 15:29:44,642 |  INFO | Starting training for 10 epochs
+2025-07-31 15:29:44,642 |  INFO | Model: sage, Device: mps
+2025-07-31 15:41:32,316 |  INFO | Using Apple Silicon GPU (MPS)
+2025-07-31 15:41:32,316 |  INFO | Device: mps
+2025-07-31 15:41:32,316 |  INFO | Loading balanced datasets...
+2025-07-31 15:41:32,316 |  INFO | Loading combined train and val datasets (train.pt, val.pt)
+2025-07-31 15:41:35,836 |  INFO | Loading path-specific test datasets
+2025-07-31 15:41:35,921 |  INFO | Loaded test data for path length 3: 412 samples
+2025-07-31 15:41:36,415 |  INFO | Loaded test data for path length 4: 1068 samples
+2025-07-31 15:41:36,738 |  INFO | Loaded test data for path length 5: 3320 samples
+2025-07-31 15:41:38,507 |  INFO | Loaded test data for path length 6: 10472 samples
+2025-07-31 15:41:38,578 |  INFO | Train: 48852 samples, 24426 pos, 24426 neg, 0.500 pos ratio
+2025-07-31 15:41:38,629 |  INFO | Train path lengths: {3: 1316, 4: 3412, 5: 10616, 6: 33508}
+2025-07-31 15:41:38,644 |  INFO | Validation: 12218 samples, 6109 pos, 6109 neg, 0.500 pos ratio
+2025-07-31 15:41:38,657 |  INFO | Validation path lengths: {3: 330, 4: 854, 5: 2656, 6: 8378}
+2025-07-31 15:41:38,677 |  INFO | Test: 15272 samples, 7636 pos, 7636 neg, 0.500 pos ratio
+2025-07-31 15:41:38,696 |  INFO | Test path lengths: {3: 412, 4: 1068, 5: 3320, 6: 10472}
+2025-07-31 15:41:38,696 |  INFO | Number of node features: 6176
+2025-07-31 15:41:38,724 |  INFO | Starting training for 10 epochs
+2025-07-31 15:41:38,724 |  INFO | Model: sage, Device: mps
+2025-07-31 15:50:46,002 |  INFO | Using Apple Silicon GPU (MPS)
+2025-07-31 15:50:46,002 |  INFO | Device: mps
+2025-07-31 15:50:46,002 |  INFO | Loading balanced datasets...
+2025-07-31 15:50:46,002 |  INFO | Loading combined train and val datasets (train.pt, val.pt)
+2025-07-31 15:50:49,697 |  INFO | Loading path-specific test datasets
+2025-07-31 15:50:49,780 |  INFO | Loaded test data for path length 3: 412 samples
+2025-07-31 15:50:50,267 |  INFO | Loaded test data for path length 4: 1068 samples
+2025-07-31 15:50:50,601 |  INFO | Loaded test data for path length 5: 3320 samples
+2025-07-31 15:50:52,399 |  INFO | Loaded test data for path length 6: 10472 samples
+2025-07-31 15:50:52,467 |  INFO | Train: 48852 samples, 24426 pos, 24426 neg, 0.500 pos ratio
+2025-07-31 15:50:52,515 |  INFO | Train path lengths: {3: 1316, 4: 3412, 5: 10616, 6: 33508}
+2025-07-31 15:50:52,529 |  INFO | Validation: 12218 samples, 6109 pos, 6109 neg, 0.500 pos ratio
+2025-07-31 15:50:52,548 |  INFO | Validation path lengths: {3: 330, 4: 854, 5: 2656, 6: 8378}
+2025-07-31 15:50:52,580 |  INFO | Test: 15272 samples, 7636 pos, 7636 neg, 0.500 pos ratio
+2025-07-31 15:50:52,597 |  INFO | Test path lengths: {3: 412, 4: 1068, 5: 3320, 6: 10472}
+2025-07-31 15:50:52,597 |  INFO | Number of node features: 6176
+2025-07-31 15:50:52,628 |  INFO | Starting training for 10 epochs
+2025-07-31 15:50:52,628 |  INFO | Model: sage, Device: mps
+2025-07-31 16:28:15,344 |  INFO | Using Apple Silicon GPU (MPS)
+2025-07-31 16:28:15,344 |  INFO | Device: mps
+2025-07-31 16:28:15,344 |  INFO | Loading balanced datasets...
+2025-07-31 16:28:15,344 |  INFO | Loading combined train and val datasets (train.pt, val.pt)
+2025-07-31 16:28:18,937 |  INFO | Loading path-specific test datasets
+2025-07-31 16:28:19,022 |  INFO | Loaded test data for path length 3: 412 samples
+2025-07-31 16:28:19,550 |  INFO | Loaded test data for path length 4: 1068 samples
+2025-07-31 16:28:19,880 |  INFO | Loaded test data for path length 5: 3320 samples
+2025-07-31 16:28:21,779 |  INFO | Loaded test data for path length 6: 10472 samples
+2025-07-31 16:28:21,849 |  INFO | Train: 48852 samples, 24426 pos, 24426 neg, 0.500 pos ratio
+2025-07-31 16:28:21,899 |  INFO | Train path lengths: {3: 1316, 4: 3412, 5: 10616, 6: 33508}
+2025-07-31 16:28:21,915 |  INFO | Validation: 12218 samples, 6109 pos, 6109 neg, 0.500 pos ratio
+2025-07-31 16:28:21,929 |  INFO | Validation path lengths: {3: 330, 4: 854, 5: 2656, 6: 8378}
+2025-07-31 16:28:21,949 |  INFO | Test: 15272 samples, 7636 pos, 7636 neg, 0.500 pos ratio
+2025-07-31 16:28:21,967 |  INFO | Test path lengths: {3: 412, 4: 1068, 5: 3320, 6: 10472}
+2025-07-31 16:28:21,967 |  INFO | Number of node features: 6176
+2025-07-31 16:28:21,996 |  INFO | Starting training for 10 epochs
+2025-07-31 16:28:21,996 |  INFO | Model: sage, Device: mps
+2025-07-31 16:29:07,484 |  INFO | Using Apple Silicon GPU (MPS)
+2025-07-31 16:29:07,484 |  INFO | Device: mps
+2025-07-31 16:29:07,484 |  INFO | Loading balanced datasets...
+2025-07-31 16:29:07,484 |  INFO | Loading combined train and val datasets (train.pt, val.pt)
+2025-07-31 16:29:10,994 |  INFO | Loading path-specific test datasets
+2025-07-31 16:29:11,056 |  INFO | Loaded test data for path length 3: 412 samples
+2025-07-31 16:29:11,544 |  INFO | Loaded test data for path length 4: 1068 samples
+2025-07-31 16:29:11,893 |  INFO | Loaded test data for path length 5: 3320 samples
+2025-07-31 16:29:13,820 |  INFO | Loaded test data for path length 6: 10472 samples
+2025-07-31 16:29:13,892 |  INFO | Train: 48852 samples, 24426 pos, 24426 neg, 0.500 pos ratio
+2025-07-31 16:29:13,942 |  INFO | Train path lengths: {3: 1316, 4: 3412, 5: 10616, 6: 33508}
+2025-07-31 16:29:13,957 |  INFO | Validation: 12218 samples, 6109 pos, 6109 neg, 0.500 pos ratio
+2025-07-31 16:29:13,971 |  INFO | Validation path lengths: {3: 330, 4: 854, 5: 2656, 6: 8378}
+2025-07-31 16:29:13,991 |  INFO | Test: 15272 samples, 7636 pos, 7636 neg, 0.500 pos ratio
+2025-07-31 16:29:14,009 |  INFO | Test path lengths: {3: 412, 4: 1068, 5: 3320, 6: 10472}
+2025-07-31 16:29:14,009 |  INFO | Number of node features: 6176
+2025-07-31 16:29:14,038 |  INFO | Starting training for 10 epochs
+2025-07-31 16:29:14,038 |  INFO | Model: sage, Device: mps
+2025-07-31 16:29:24,257 | WARNING | NaN gradients detected, skipping optimizer step
+2025-07-31 16:29:43,395 | WARNING | NaN gradients detected, skipping optimizer step
+2025-07-31 16:30:56,861 | WARNING | NaN gradients detected, skipping optimizer step
+2025-07-31 16:32:37,710 |  INFO | Using Apple Silicon GPU (MPS)
+2025-07-31 16:32:37,712 |  INFO | Device: mps
+2025-07-31 16:32:37,712 |  INFO | Loading balanced datasets...
+2025-07-31 16:32:37,712 |  INFO | Loading combined train and val datasets (train.pt, val.pt)
+2025-07-31 16:32:41,287 |  INFO | Loading path-specific test datasets
+2025-07-31 16:32:41,351 |  INFO | Loaded test data for path length 3: 412 samples
+2025-07-31 16:32:41,843 |  INFO | Loaded test data for path length 4: 1068 samples
+2025-07-31 16:32:42,178 |  INFO | Loaded test data for path length 5: 3320 samples
+2025-07-31 16:32:44,044 |  INFO | Loaded test data for path length 6: 10472 samples
+2025-07-31 16:32:44,118 |  INFO | Train: 48852 samples, 24426 pos, 24426 neg, 0.500 pos ratio
+2025-07-31 16:32:44,169 |  INFO | Train path lengths: {3: 1316, 4: 3412, 5: 10616, 6: 33508}
+2025-07-31 16:32:44,185 |  INFO | Validation: 12218 samples, 6109 pos, 6109 neg, 0.500 pos ratio
+2025-07-31 16:32:44,200 |  INFO | Validation path lengths: {3: 330, 4: 854, 5: 2656, 6: 8378}
+2025-07-31 16:32:44,220 |  INFO | Test: 15272 samples, 7636 pos, 7636 neg, 0.500 pos ratio
+2025-07-31 16:32:44,239 |  INFO | Test path lengths: {3: 412, 4: 1068, 5: 3320, 6: 10472}
+2025-07-31 16:32:44,239 |  INFO | Number of node features: 6176
+2025-07-31 16:32:44,270 |  INFO | Starting training for 10 epochs
+2025-07-31 16:32:44,270 |  INFO | Model: sage, Device: mps
+2025-07-31 16:33:49,607 |  INFO | Using Apple Silicon GPU (MPS)
+2025-07-31 16:33:49,607 |  INFO | Device: mps
+2025-07-31 16:33:49,607 |  INFO | Loading balanced datasets...
+2025-07-31 16:33:49,607 |  INFO | Loading combined train and val datasets (train.pt, val.pt)
+2025-07-31 16:33:53,224 |  INFO | Loading path-specific test datasets
+2025-07-31 16:33:53,289 |  INFO | Loaded test data for path length 3: 412 samples
+2025-07-31 16:33:53,773 |  INFO | Loaded test data for path length 4: 1068 samples
+2025-07-31 16:33:54,111 |  INFO | Loaded test data for path length 5: 3320 samples
+2025-07-31 16:33:55,985 |  INFO | Loaded test data for path length 6: 10472 samples
+2025-07-31 16:33:56,057 |  INFO | Train: 48852 samples, 24426 pos, 24426 neg, 0.500 pos ratio
+2025-07-31 16:33:56,107 |  INFO | Train path lengths: {3: 1316, 4: 3412, 5: 10616, 6: 33508}
+2025-07-31 16:33:56,124 |  INFO | Validation: 12218 samples, 6109 pos, 6109 neg, 0.500 pos ratio
+2025-07-31 16:33:56,139 |  INFO | Validation path lengths: {3: 330, 4: 854, 5: 2656, 6: 8378}
+2025-07-31 16:33:56,160 |  INFO | Test: 15272 samples, 7636 pos, 7636 neg, 0.500 pos ratio
+2025-07-31 16:33:56,179 |  INFO | Test path lengths: {3: 412, 4: 1068, 5: 3320, 6: 10472}
+2025-07-31 16:33:56,180 |  INFO | Number of node features: 6176
+2025-07-31 16:33:56,207 |  INFO | Starting training for 10 epochs
+2025-07-31 16:33:56,207 |  INFO | Model: sage, Device: mps
+2025-07-31 16:36:47,713 |  INFO | Using Apple Silicon GPU (MPS)
+2025-07-31 16:36:47,713 |  INFO | Device: mps
+2025-07-31 16:36:47,713 |  INFO | Loading balanced datasets...
+2025-07-31 16:36:47,713 |  INFO | Loading combined train and val datasets (train.pt, val.pt)
+2025-07-31 16:36:51,379 |  INFO | Loading path-specific test datasets
+2025-07-31 16:36:51,446 |  INFO | Loaded test data for path length 3: 412 samples
+2025-07-31 16:36:51,978 |  INFO | Loaded test data for path length 4: 1068 samples
+2025-07-31 16:36:52,375 |  INFO | Loaded test data for path length 5: 3320 samples
+2025-07-31 16:36:54,230 |  INFO | Loaded test data for path length 6: 10472 samples
+2025-07-31 16:36:54,303 |  INFO | Train: 48852 samples, 24426 pos, 24426 neg, 0.500 pos ratio
+2025-07-31 16:36:54,357 |  INFO | Train path lengths: {3: 1316, 4: 3412, 5: 10616, 6: 33508}
+2025-07-31 16:36:54,372 |  INFO | Validation: 12218 samples, 6109 pos, 6109 neg, 0.500 pos ratio
+2025-07-31 16:36:54,385 |  INFO | Validation path lengths: {3: 330, 4: 854, 5: 2656, 6: 8378}
+2025-07-31 16:36:54,405 |  INFO | Test: 15272 samples, 7636 pos, 7636 neg, 0.500 pos ratio
+2025-07-31 16:36:54,424 |  INFO | Test path lengths: {3: 412, 4: 1068, 5: 3320, 6: 10472}
+2025-07-31 16:36:54,424 |  INFO | Number of node features: 6176
+2025-07-31 16:36:54,450 |  INFO | Starting training for 5 epochs
+2025-07-31 16:36:54,450 |  INFO | Model: sage, Device: mps
+2025-07-31 16:39:09,808 |  INFO | Using Apple Silicon GPU (MPS)
+2025-07-31 16:39:09,808 |  INFO | Device: mps
+2025-07-31 16:39:09,808 |  INFO | Loading balanced datasets...
+2025-07-31 16:39:09,808 |  INFO | Loading combined train and val datasets (train.pt, val.pt)
+2025-07-31 16:39:13,441 |  INFO | Loading path-specific test datasets
+2025-07-31 16:39:13,506 |  INFO | Loaded test data for path length 3: 412 samples
+2025-07-31 16:39:13,989 |  INFO | Loaded test data for path length 4: 1068 samples
+2025-07-31 16:39:14,332 |  INFO | Loaded test data for path length 5: 3320 samples
+2025-07-31 16:39:16,272 |  INFO | Loaded test data for path length 6: 10472 samples
+2025-07-31 16:39:16,346 |  INFO | Train: 48852 samples, 24426 pos, 24426 neg, 0.500 pos ratio
+2025-07-31 16:39:16,399 |  INFO | Train path lengths: {3: 1316, 4: 3412, 5: 10616, 6: 33508}
+2025-07-31 16:39:16,414 |  INFO | Validation: 12218 samples, 6109 pos, 6109 neg, 0.500 pos ratio
+2025-07-31 16:39:16,428 |  INFO | Validation path lengths: {3: 330, 4: 854, 5: 2656, 6: 8378}
+2025-07-31 16:39:16,447 |  INFO | Test: 15272 samples, 7636 pos, 7636 neg, 0.500 pos ratio
+2025-07-31 16:39:16,466 |  INFO | Test path lengths: {3: 412, 4: 1068, 5: 3320, 6: 10472}
+2025-07-31 16:39:16,466 |  INFO | Number of node features: 6176
+2025-07-31 16:39:16,492 |  INFO | Starting training for 2 epochs
+2025-07-31 16:39:16,492 |  INFO | Model: sage, Device: mps
+2025-07-31 16:55:28,293 |  INFO | val - Loss: 9.6501, AUC: 0.9487, AP: 0.9400
+2025-07-31 16:55:28,293 |  INFO | val - Accuracy: 0.8938, F1: 0.8960, Precision: 0.8772, Recall: 0.9157
+2025-07-31 16:55:28,294 |  INFO | Epoch   0 - Train Loss: 1664524515587344.0000, Val Loss: 9.6501, Val AUC: 0.9487, Val Acc: 0.8938, Val F1: 0.8960
+2025-07-31 16:55:28,313 |  INFO | New best model saved! Val AUC: 0.9487
+2025-07-31 17:11:51,052 |  INFO | val - Loss: 4.1734, AUC: 0.9568, AP: 0.9495
+2025-07-31 17:11:51,052 |  INFO | val - Accuracy: 0.9052, F1: 0.9065, Precision: 0.8945, Recall: 0.9188
+2025-07-31 17:11:51,066 |  INFO | New best model saved! Val AUC: 0.9568
+2025-07-31 17:15:42,517 |  INFO | test - Loss: 11.7552, AUC: 0.9527, AP: 0.9340
+2025-07-31 17:15:42,518 |  INFO | test - Accuracy: 0.9054, F1: 0.9072, Precision: 0.8901, Recall: 0.9250

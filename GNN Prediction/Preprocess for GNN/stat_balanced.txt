@@ -1,0 +1,115 @@
+Loaded 56280 samples from gnn_datasets/path_length_3.pt
+
+Original (path_length=3) Statistics:
+  Total samples: 56280
+  path_length=3:  pos=1029  neg=55251  ratio=0.02
+
+Balanced (path_length=3) Statistics:
+  Total samples: 2058
+  path_length=3:  pos=1029  neg=1029  ratio=0.50
+
+Train (path_length=3) Statistics:
+  Total samples: 1316
+  path_length=3:  pos=658  neg=658  ratio=0.50
+
+Val (path_length=3) Statistics:
+  Total samples: 330
+  path_length=3:  pos=165  neg=165  ratio=0.50
+
+Test (path_length=3) Statistics:
+  Total samples: 412
+  path_length=3:  pos=206  neg=206  ratio=0.50
+  Saved balanced splits for path_length=3: train=1316, val=330, test=412
+Loaded 227300 samples from gnn_datasets/path_length_4.pt
+
+Original (path_length=4) Statistics:
+  Total samples: 227300
+  path_length=4:  pos=2667  neg=224633  ratio=0.01
+
+Balanced (path_length=4) Statistics:
+  Total samples: 5334
+  path_length=4:  pos=2667  neg=2667  ratio=0.50
+
+Train (path_length=4) Statistics:
+  Total samples: 3412
+  path_length=4:  pos=1706  neg=1706  ratio=0.50
+
+Val (path_length=4) Statistics:
+  Total samples: 854
+  path_length=4:  pos=427  neg=427  ratio=0.50
+
+Test (path_length=4) Statistics:
+  Total samples: 1068
+  path_length=4:  pos=534  neg=534  ratio=0.50
+  Saved balanced splits for path_length=4: train=3412, val=854, test=1068
+Loaded 820624 samples from gnn_datasets/path_length_5.pt
+
+Original (path_length=5) Statistics:
+  Total samples: 820624
+  path_length=5:  pos=8296  neg=812328  ratio=0.01
+
+Balanced (path_length=5) Statistics:
+  Total samples: 16592
+  path_length=5:  pos=8296  neg=8296  ratio=0.50
+
+Train (path_length=5) Statistics:
+  Total samples: 10616
+  path_length=5:  pos=5308  neg=5308  ratio=0.50
+
+Val (path_length=5) Statistics:
+  Total samples: 2656
+  path_length=5:  pos=1328  neg=1328  ratio=0.50
+
+Test (path_length=5) Statistics:
+  Total samples: 3320
+  path_length=5:  pos=1660  neg=1660  ratio=0.50
+  Saved balanced splits for path_length=5: train=10616, val=2656, test=3320
+Loaded 2824216 samples from gnn_datasets/path_length_6.pt
+
+Original (path_length=6) Statistics:
+  Total samples: 2824216
+  path_length=6:  pos=26179  neg=2798037  ratio=0.01
+
+Balanced (path_length=6) Statistics:
+  Total samples: 52358
+  path_length=6:  pos=26179  neg=26179  ratio=0.50
+
+Train (path_length=6) Statistics:
+  Total samples: 33508
+  path_length=6:  pos=16754  neg=16754  ratio=0.50
+
+Val (path_length=6) Statistics:
+  Total samples: 8378
+  path_length=6:  pos=4189  neg=4189  ratio=0.50
+
+Test (path_length=6) Statistics:
+  Total samples: 10472
+  path_length=6:  pos=5236  neg=5236  ratio=0.50
+  Saved balanced splits for path_length=6: train=33508, val=8378, test=10472
+
+Saved combined balanced train.pt, val.pt, test.pt in gnn_datasets/balanced/
+
+===== Per-Path-Length Balanced Dataset Statistics =====
+
+Path length 3:
+  Train: total=1316, pos=658, neg=658, class_ratio=0.5
+  Val: total=330, pos=165, neg=165, class_ratio=0.5
+  Test: total=412, pos=206, neg=206, class_ratio=0.5
+
+Path length 4:
+  Train: total=3412, pos=1706, neg=1706, class_ratio=0.5
+  Val: total=854, pos=427, neg=427, class_ratio=0.5
+  Test: total=1068, pos=534, neg=534, class_ratio=0.5
+
+Path length 5:
+  Train: total=10616, pos=5308, neg=5308, class_ratio=0.5
+  Val: total=2656, pos=1328, neg=1328, class_ratio=0.5
+  Test: total=3320, pos=1660, neg=1660, class_ratio=0.5
+
+Path length 6:
+  Train: total=33508, pos=16754, neg=16754, class_ratio=0.5
+  Val: total=8378, pos=4189, neg=4189, class_ratio=0.5
+  Test: total=10472, pos=5236, neg=5236, class_ratio=0.5
+
+===== End of Statistics =====
+

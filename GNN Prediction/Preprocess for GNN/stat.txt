@@ -1,0 +1,78 @@
+Loaded 56280 samples from gnn_datasets/path_length_3.pt
+
+Original (path_length=3) Statistics:
+  Total samples: 56280
+  path_length=2:  pos=176  neg=34278  ratio=0.01
+  path_length=3:  pos=853  neg=20973  ratio=0.04
+
+Balanced (path_length=3) Statistics:
+  Total samples: 2058
+  path_length=2:  pos=176  neg=624  ratio=0.22
+  path_length=3:  pos=853  neg=405  ratio=0.68
+
+Train (path_length=3) Statistics:
+  Total samples: 1316
+  path_length=2:  pos=115  neg=413  ratio=0.22
+  path_length=3:  pos=543  neg=245  ratio=0.69
+
+Val (path_length=3) Statistics:
+  Total samples: 330
+  path_length=2:  pos=29  neg=101  ratio=0.22
+  path_length=3:  pos=136  neg=64  ratio=0.68
+
+Test (path_length=3) Statistics:
+  Total samples: 412
+  path_length=2:  pos=32  neg=110  ratio=0.23
+  path_length=3:  pos=174  neg=96  ratio=0.64
+  Saved balanced splits for path_length=3: train=1316, val=330, test=412
+File not found: gnn_datasets/path_length_4.pt, skipping.
+Loaded 820624 samples from gnn_datasets/path_length_5.pt
+
+Original (path_length=5) Statistics:
+  Total samples: 820624
+  path_length=5:  pos=8296  neg=812328  ratio=0.01
+
+Balanced (path_length=5) Statistics:
+  Total samples: 16592
+  path_length=5:  pos=8296  neg=8296  ratio=0.50
+
+Train (path_length=5) Statistics:
+  Total samples: 10616
+  path_length=5:  pos=5308  neg=5308  ratio=0.50
+
+Val (path_length=5) Statistics:
+  Total samples: 2656
+  path_length=5:  pos=1328  neg=1328  ratio=0.50
+
+Test (path_length=5) Statistics:
+  Total samples: 3320
+  path_length=5:  pos=1660  neg=1660  ratio=0.50
+  Saved balanced splits for path_length=5: train=10616, val=2656, test=3320
+File not found: gnn_datasets/path_length_6.pt, skipping.
+
+Saved combined balanced train.pt, val.pt, test.pt in gnn_datasets/balanced/
+
+===== Per-Path-Length Balanced Dataset Statistics =====
+
+Path length 3:
+  Train: total=1316, pos=658, neg=658, class_ratio=0.5
+  Val: total=330, pos=165, neg=165, class_ratio=0.5
+  Test: total=412, pos=206, neg=206, class_ratio=0.5
+
+Path length 4:
+  Train: total=0, pos=0, neg=0, class_ratio=None
+  Val: total=0, pos=0, neg=0, class_ratio=None
+  Test: total=0, pos=0, neg=0, class_ratio=None
+
+Path length 5:
+  Train: total=10616, pos=5308, neg=5308, class_ratio=0.5
+  Val: total=2656, pos=1328, neg=1328, class_ratio=0.5
+  Test: total=3320, pos=1660, neg=1660, class_ratio=0.5
+
+Path length 6:
+  Train: total=0, pos=0, neg=0, class_ratio=None
+  Val: total=0, pos=0, neg=0, class_ratio=None
+  Test: total=0, pos=0, neg=0, class_ratio=None
+
+===== End of Statistics =====
+

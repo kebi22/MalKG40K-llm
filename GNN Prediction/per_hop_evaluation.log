@@ -1,0 +1,383 @@
+2025-07-31 19:04:22,571 |  INFO | Using Apple Silicon GPU (MPS)
+2025-07-31 19:04:22,571 |  INFO | Device: mps
+2025-07-31 19:04:22,571 |  INFO | Loading test datasets...
+2025-07-31 19:04:22,571 |  INFO | Loading path-specific test datasets
+2025-07-31 19:04:22,571 |  INFO | Test: Empty dataset
+2025-07-31 19:04:22,571 | ERROR | Empty test dataset! Check data directory and path lengths.
+2025-07-31 19:04:50,162 |  INFO | Using Apple Silicon GPU (MPS)
+2025-07-31 19:04:50,162 |  INFO | Device: mps
+2025-07-31 19:04:50,162 |  INFO | Loading test datasets...
+2025-07-31 19:04:50,162 |  INFO | Loading path-specific test datasets
+2025-07-31 19:04:50,296 |  INFO | Loaded test data for path length 3: 412 samples
+2025-07-31 19:04:50,528 |  INFO | Loaded test data for path length 4: 1068 samples
+2025-07-31 19:04:51,029 |  INFO | Loaded test data for path length 5: 3320 samples
+2025-07-31 19:04:52,476 |  INFO | Loaded test data for path length 6: 10472 samples
+2025-07-31 19:04:52,495 |  INFO | Test: 15272 samples, 7636 pos, 7636 neg, 0.500 pos ratio
+2025-07-31 19:04:52,512 |  INFO | Test path lengths: {3: 412, 4: 1068, 5: 3320, 6: 10472}
+2025-07-31 19:04:52,512 |  INFO | Number of node features: 11398
+2025-07-31 19:04:52,537 |  INFO | Loading model from: batch_test/best_model.pt
+2025-07-31 19:05:08,520 |  INFO | Using Apple Silicon GPU (MPS)
+2025-07-31 19:05:08,520 |  INFO | Device: mps
+2025-07-31 19:05:08,520 |  INFO | Loading test datasets...
+2025-07-31 19:05:08,520 |  INFO | Loading path-specific test datasets
+2025-07-31 19:05:08,638 |  INFO | Loaded test data for path length 3: 412 samples
+2025-07-31 19:05:08,869 |  INFO | Loaded test data for path length 4: 1068 samples
+2025-07-31 19:05:09,373 |  INFO | Loaded test data for path length 5: 3320 samples
+2025-07-31 19:05:10,792 |  INFO | Loaded test data for path length 6: 10472 samples
+2025-07-31 19:05:10,812 |  INFO | Test: 15272 samples, 7636 pos, 7636 neg, 0.500 pos ratio
+2025-07-31 19:05:10,828 |  INFO | Test path lengths: {3: 412, 4: 1068, 5: 3320, 6: 10472}
+2025-07-31 19:05:10,829 |  INFO | Number of node features: 11398
+2025-07-31 19:05:10,849 |  INFO | Loading model from: batch_test/best_model.pt
+2025-07-31 19:06:02,816 |  INFO | Using Apple Silicon GPU (MPS)
+2025-07-31 19:06:02,816 |  INFO | Device: mps
+2025-07-31 19:06:02,817 |  INFO | Loading test datasets...
+2025-07-31 19:06:02,817 |  INFO | Loading path-specific test datasets
+2025-07-31 19:06:02,909 |  INFO | Loaded test data for path length 3: 50 samples
+2025-07-31 19:06:03,010 |  INFO | Loaded test data for path length 4: 64 samples
+2025-07-31 19:06:03,108 |  INFO | Loaded test data for path length 5: 57 samples
+2025-07-31 19:06:03,214 |  INFO | Loaded test data for path length 6: 91 samples
+2025-07-31 19:06:03,214 |  INFO | Test: 262 samples, 135 pos, 127 neg, 0.515 pos ratio
+2025-07-31 19:06:03,214 |  INFO | Test path lengths: {3: 50, 4: 64, 5: 57, 6: 91}
+2025-07-31 19:06:03,214 |  INFO | Number of node features: 11398
+2025-07-31 19:06:03,234 |  INFO | Loading model from: batch_test/best_model.pt
+2025-07-31 19:06:36,445 |  INFO | Using Apple Silicon GPU (MPS)
+2025-07-31 19:06:36,445 |  INFO | Device: mps
+2025-07-31 19:06:36,445 |  INFO | Loading test datasets...
+2025-07-31 19:06:36,445 |  INFO | Loading path-specific test datasets
+2025-07-31 19:06:36,536 |  INFO | Loaded test data for path length 3: 50 samples
+2025-07-31 19:06:36,634 |  INFO | Loaded test data for path length 4: 64 samples
+2025-07-31 19:06:36,729 |  INFO | Loaded test data for path length 5: 57 samples
+2025-07-31 19:06:36,833 |  INFO | Loaded test data for path length 6: 91 samples
+2025-07-31 19:06:36,833 |  INFO | Test: 262 samples, 135 pos, 127 neg, 0.515 pos ratio
+2025-07-31 19:06:36,833 |  INFO | Test path lengths: {3: 50, 4: 64, 5: 57, 6: 91}
+2025-07-31 19:06:36,833 |  INFO | Number of node features: 6177
+2025-07-31 19:06:36,852 |  INFO | Loading model from: batch_test/best_model.pt
+2025-07-31 19:07:01,281 |  INFO | Using Apple Silicon GPU (MPS)
+2025-07-31 19:07:01,281 |  INFO | Device: mps
+2025-07-31 19:07:01,281 |  INFO | Loading test datasets...
+2025-07-31 19:07:01,281 |  INFO | Loading path-specific test datasets
+2025-07-31 19:07:01,372 |  INFO | Loaded test data for path length 3: 50 samples
+2025-07-31 19:07:01,472 |  INFO | Loaded test data for path length 4: 64 samples
+2025-07-31 19:07:01,566 |  INFO | Loaded test data for path length 5: 57 samples
+2025-07-31 19:07:01,669 |  INFO | Loaded test data for path length 6: 91 samples
+2025-07-31 19:07:01,670 |  INFO | Test: 262 samples, 135 pos, 127 neg, 0.515 pos ratio
+2025-07-31 19:07:01,670 |  INFO | Test path lengths: {3: 50, 4: 64, 5: 57, 6: 91}
+2025-07-31 19:07:01,670 |  INFO | Number of node features: 6176
+2025-07-31 19:07:01,689 |  INFO | Loading model from: batch_test/best_model.pt
+2025-07-31 19:07:01,706 |  INFO | Model loaded successfully! Best validation AUC: 0.9568491389348213
+2025-07-31 19:07:01,709 |  INFO | Starting per-hop evaluation...
+2025-07-31 19:07:04,722 |  INFO | Evaluating test path length 6...
+2025-07-31 19:07:07,658 |  INFO | test path length 6: AUC=0.9468, AP=0.9434, Acc=0.8901, F1=0.9038, Prec=0.8246, Rec=1.0000, samples=91
+2025-07-31 19:07:07,658 |  INFO | Evaluating test path length 3...
+2025-07-31 19:07:09,071 |  INFO | test path length 3: AUC=0.9497, AP=0.9639, Acc=0.9000, F1=0.9091, Prec=0.9259, Rec=0.8929, samples=50
+2025-07-31 19:07:09,071 |  INFO | Evaluating test path length 5...
+2025-07-31 19:07:10,634 |  INFO | test path length 5: AUC=0.8953, AP=0.8717, Acc=0.8596, F1=0.8571, Prec=0.8571, Rec=0.8571, samples=57
+2025-07-31 19:07:10,634 |  INFO | Evaluating test path length 4...
+2025-07-31 19:07:12,074 |  INFO | test path length 4: AUC=0.9854, AP=0.9861, Acc=0.9219, F1=0.9254, Prec=0.8857, Rec=0.9688, samples=64
+2025-07-31 19:07:32,442 |  INFO | Using Apple Silicon GPU (MPS)
+2025-07-31 19:07:32,442 |  INFO | Device: mps
+2025-07-31 19:07:32,442 |  INFO | Loading test datasets...
+2025-07-31 19:07:32,442 |  INFO | Loading path-specific test datasets
+2025-07-31 19:07:32,570 |  INFO | Loaded test data for path length 3: 50 samples
+2025-07-31 19:07:32,696 |  INFO | Loaded test data for path length 4: 64 samples
+2025-07-31 19:07:32,822 |  INFO | Loaded test data for path length 5: 57 samples
+2025-07-31 19:07:32,951 |  INFO | Loaded test data for path length 6: 91 samples
+2025-07-31 19:07:32,951 |  INFO | Test: 262 samples, 135 pos, 127 neg, 0.515 pos ratio
+2025-07-31 19:07:32,951 |  INFO | Test path lengths: {3: 50, 4: 64, 5: 57, 6: 91}
+2025-07-31 19:07:32,951 |  INFO | Number of node features: 6176
+2025-07-31 19:07:32,971 |  INFO | Loading model from: batch_test/best_model.pt
+2025-07-31 19:07:32,989 |  INFO | Model loaded successfully! Best validation AUC: 0.9568491389348213
+2025-07-31 19:07:32,992 |  INFO | Starting per-hop evaluation...
+2025-07-31 19:07:36,012 |  INFO | Evaluating test path length 6...
+2025-07-31 19:07:38,770 |  INFO | test path length 6: AUC=0.9468, AP=0.9434, Acc=0.8901, F1=0.9038, Prec=0.8246, Rec=1.0000, samples=91
+2025-07-31 19:07:38,770 |  INFO | Evaluating test path length 3...
+2025-07-31 19:07:40,103 |  INFO | test path length 3: AUC=0.9497, AP=0.9639, Acc=0.9000, F1=0.9091, Prec=0.9259, Rec=0.8929, samples=50
+2025-07-31 19:07:40,103 |  INFO | Evaluating test path length 5...
+2025-07-31 19:07:41,633 |  INFO | test path length 5: AUC=0.8953, AP=0.8717, Acc=0.8596, F1=0.8571, Prec=0.8571, Rec=0.8571, samples=57
+2025-07-31 19:07:41,633 |  INFO | Evaluating test path length 4...
+2025-07-31 19:07:43,015 |  INFO | test path length 4: AUC=0.9854, AP=0.9861, Acc=0.9219, F1=0.9254, Prec=0.8857, Rec=0.9688, samples=64
+2025-07-31 19:07:43,021 |  INFO | Per-hop evaluation completed!
+2025-07-31 19:07:43,021 |  INFO | Results saved to: per_hop_results.json
+2025-07-31 19:07:43,021 |  INFO | 
+==================================================
+2025-07-31 19:07:43,021 |  INFO | PER-HOP EVALUATION SUMMARY
+2025-07-31 19:07:43,021 |  INFO | ==================================================
+2025-07-31 19:07:43,021 |  INFO | Path Length 6:
+2025-07-31 19:07:43,021 |  INFO |   AUC: 0.9468
+2025-07-31 19:07:43,021 |  INFO |   AP: 0.9434
+2025-07-31 19:07:43,021 |  INFO |   Accuracy: 0.8901
+2025-07-31 19:07:43,021 |  INFO |   F1: 0.9038
+2025-07-31 19:07:43,021 |  INFO |   Precision: 0.8246
+2025-07-31 19:07:43,021 |  INFO |   Recall: 1.0000
+2025-07-31 19:07:43,021 |  INFO |   Samples: 91
+2025-07-31 19:07:43,021 |  INFO | 
+2025-07-31 19:07:43,021 |  INFO | Path Length 3:
+2025-07-31 19:07:43,021 |  INFO |   AUC: 0.9497
+2025-07-31 19:07:43,021 |  INFO |   AP: 0.9639
+2025-07-31 19:07:43,021 |  INFO |   Accuracy: 0.9000
+2025-07-31 19:07:43,021 |  INFO |   F1: 0.9091
+2025-07-31 19:07:43,021 |  INFO |   Precision: 0.9259
+2025-07-31 19:07:43,021 |  INFO |   Recall: 0.8929
+2025-07-31 19:07:43,021 |  INFO |   Samples: 50
+2025-07-31 19:07:43,021 |  INFO | 
+2025-07-31 19:07:43,021 |  INFO | Path Length 5:
+2025-07-31 19:07:43,021 |  INFO |   AUC: 0.8953
+2025-07-31 19:07:43,022 |  INFO |   AP: 0.8717
+2025-07-31 19:07:43,022 |  INFO |   Accuracy: 0.8596
+2025-07-31 19:07:43,022 |  INFO |   F1: 0.8571
+2025-07-31 19:07:43,022 |  INFO |   Precision: 0.8571
+2025-07-31 19:07:43,022 |  INFO |   Recall: 0.8571
+2025-07-31 19:07:43,022 |  INFO |   Samples: 57
+2025-07-31 19:07:43,022 |  INFO | 
+2025-07-31 19:07:43,022 |  INFO | Path Length 4:
+2025-07-31 19:07:43,022 |  INFO |   AUC: 0.9854
+2025-07-31 19:07:43,022 |  INFO |   AP: 0.9861
+2025-07-31 19:07:43,022 |  INFO |   Accuracy: 0.9219
+2025-07-31 19:07:43,022 |  INFO |   F1: 0.9254
+2025-07-31 19:07:43,022 |  INFO |   Precision: 0.8857
+2025-07-31 19:07:43,022 |  INFO |   Recall: 0.9688
+2025-07-31 19:07:43,022 |  INFO |   Samples: 64
+2025-07-31 19:07:43,022 |  INFO | 
+2025-07-31 19:10:05,536 |  INFO | Using Apple Silicon GPU (MPS)
+2025-07-31 19:10:05,536 |  INFO | Device: mps
+2025-07-31 19:10:05,536 |  INFO | Loading test datasets...
+2025-07-31 19:10:05,536 |  INFO | Loading path-specific test datasets
+2025-07-31 19:10:05,664 |  INFO | Loaded test data for path length 3: 50 samples
+2025-07-31 19:10:05,797 |  INFO | Loaded test data for path length 4: 64 samples
+2025-07-31 19:10:05,923 |  INFO | Loaded test data for path length 5: 57 samples
+2025-07-31 19:10:06,051 |  INFO | Loaded test data for path length 6: 91 samples
+2025-07-31 19:10:06,052 |  INFO | Test: 262 samples, 135 pos, 127 neg, 0.515 pos ratio
+2025-07-31 19:10:06,052 |  INFO | Test path lengths: {3: 50, 4: 64, 5: 57, 6: 91}
+2025-07-31 19:10:06,052 |  INFO | Number of node features: 6176
+2025-07-31 19:10:06,071 |  INFO | Loading model from: batch_test/best_model.pt
+2025-07-31 19:10:06,088 |  INFO | Model loaded successfully! Best validation AUC: 0.9568491389348213
+2025-07-31 19:10:06,091 |  INFO | Starting per-hop evaluation...
+2025-07-31 19:10:09,150 |  INFO | Evaluating test path length 6...
+2025-07-31 19:10:11,910 |  INFO | test path length 6: AUC=0.9468, AP=0.9434, Acc=0.8901, F1=0.9038, Prec=0.8246, Rec=1.0000, samples=91
+2025-07-31 19:10:11,910 |  INFO | Evaluating test path length 3...
+2025-07-31 19:10:13,327 |  INFO | test path length 3: AUC=0.9497, AP=0.9639, Acc=0.9000, F1=0.9091, Prec=0.9259, Rec=0.8929, samples=50
+2025-07-31 19:10:13,327 |  INFO | Evaluating test path length 5...
+2025-07-31 19:10:14,884 |  INFO | test path length 5: AUC=0.8953, AP=0.8717, Acc=0.8596, F1=0.8571, Prec=0.8571, Rec=0.8571, samples=57
+2025-07-31 19:10:14,884 |  INFO | Evaluating test path length 4...
+2025-07-31 19:10:16,309 |  INFO | test path length 4: AUC=0.9854, AP=0.9861, Acc=0.9219, F1=0.9254, Prec=0.8857, Rec=0.9688, samples=64
+2025-07-31 19:10:16,315 |  INFO | Per-hop evaluation completed!
+2025-07-31 19:10:16,315 |  INFO | Results saved to: per_hop_results.json
+2025-07-31 19:10:16,315 |  INFO | Results also saved to: results2.txt
+2025-07-31 19:10:16,315 |  INFO | 
+==================================================
+2025-07-31 19:10:16,315 |  INFO | PER-HOP EVALUATION SUMMARY
+2025-07-31 19:10:16,315 |  INFO | ==================================================
+2025-07-31 19:10:16,315 |  INFO | Path Length 6:
+2025-07-31 19:10:16,315 |  INFO |   AUC: 0.9468
+2025-07-31 19:10:16,315 |  INFO |   AP: 0.9434
+2025-07-31 19:10:16,315 |  INFO |   Accuracy: 0.8901
+2025-07-31 19:10:16,315 |  INFO |   F1: 0.9038
+2025-07-31 19:10:16,315 |  INFO |   Precision: 0.8246
+2025-07-31 19:10:16,315 |  INFO |   Recall: 1.0000
+2025-07-31 19:10:16,316 |  INFO |   Samples: 91
+2025-07-31 19:10:16,316 |  INFO | 
+2025-07-31 19:10:16,316 |  INFO | Path Length 3:
+2025-07-31 19:10:16,316 |  INFO |   AUC: 0.9497
+2025-07-31 19:10:16,316 |  INFO |   AP: 0.9639
+2025-07-31 19:10:16,316 |  INFO |   Accuracy: 0.9000
+2025-07-31 19:10:16,316 |  INFO |   F1: 0.9091
+2025-07-31 19:10:16,316 |  INFO |   Precision: 0.9259
+2025-07-31 19:10:16,316 |  INFO |   Recall: 0.8929
+2025-07-31 19:10:16,316 |  INFO |   Samples: 50
+2025-07-31 19:10:16,316 |  INFO | 
+2025-07-31 19:10:16,316 |  INFO | Path Length 5:
+2025-07-31 19:10:16,316 |  INFO |   AUC: 0.8953
+2025-07-31 19:10:16,316 |  INFO |   AP: 0.8717
+2025-07-31 19:10:16,316 |  INFO |   Accuracy: 0.8596
+2025-07-31 19:10:16,316 |  INFO |   F1: 0.8571
+2025-07-31 19:10:16,316 |  INFO |   Precision: 0.8571
+2025-07-31 19:10:16,316 |  INFO |   Recall: 0.8571
+2025-07-31 19:10:16,316 |  INFO |   Samples: 57
+2025-07-31 19:10:16,316 |  INFO | 
+2025-07-31 19:10:16,316 |  INFO | Path Length 4:
+2025-07-31 19:10:16,316 |  INFO |   AUC: 0.9854
+2025-07-31 19:10:16,316 |  INFO |   AP: 0.9861
+2025-07-31 19:10:16,316 |  INFO |   Accuracy: 0.9219
+2025-07-31 19:10:16,316 |  INFO |   F1: 0.9254
+2025-07-31 19:10:16,316 |  INFO |   Precision: 0.8857
+2025-07-31 19:10:16,316 |  INFO |   Recall: 0.9688
+2025-07-31 19:10:16,316 |  INFO |   Samples: 64
+2025-07-31 19:10:16,316 |  INFO | 
+2025-07-31 19:14:21,759 |  INFO | Using Apple Silicon GPU (MPS)
+2025-07-31 19:14:21,759 |  INFO | Device: mps
+2025-07-31 19:14:21,759 |  INFO | Loading test datasets...
+2025-07-31 19:14:21,759 |  INFO | Loading path-specific test datasets
+2025-07-31 19:14:21,885 |  INFO | Loaded test data for path length 3: 50 samples
+2025-07-31 19:14:22,008 |  INFO | Loaded test data for path length 4: 64 samples
+2025-07-31 19:14:22,134 |  INFO | Loaded test data for path length 5: 57 samples
+2025-07-31 19:14:22,262 |  INFO | Loaded test data for path length 6: 91 samples
+2025-07-31 19:14:22,262 |  INFO | Test: 262 samples, 135 pos, 127 neg, 0.515 pos ratio
+2025-07-31 19:14:22,262 |  INFO | Test path lengths: {3: 50, 4: 64, 5: 57, 6: 91}
+2025-07-31 19:14:22,263 |  INFO | Number of node features: 6176
+2025-07-31 19:14:22,282 |  INFO | Loading model from: batch_test/best_model.pt
+2025-07-31 19:14:22,299 |  INFO | Model loaded successfully! Best validation AUC: 0.9568491389348213
+2025-07-31 19:14:22,302 |  INFO | Starting per-hop evaluation...
+2025-07-31 19:14:25,270 |  INFO | Evaluating test path length 6...
+2025-07-31 19:14:28,006 |  INFO | test path length 6: AUC=0.9468, AP=0.9434, Acc=0.8901, F1=0.9038, Prec=0.8246, Rec=1.0000, samples=91
+2025-07-31 19:14:28,006 |  INFO | Evaluating test path length 3...
+2025-07-31 19:14:29,308 |  INFO | test path length 3: AUC=0.9497, AP=0.9639, Acc=0.9000, F1=0.9091, Prec=0.9259, Rec=0.8929, samples=50
+2025-07-31 19:14:29,308 |  INFO | Evaluating test path length 5...
+2025-07-31 19:14:30,796 |  INFO | test path length 5: AUC=0.8953, AP=0.8717, Acc=0.8596, F1=0.8571, Prec=0.8571, Rec=0.8571, samples=57
+2025-07-31 19:14:30,796 |  INFO | Evaluating test path length 4...
+2025-07-31 19:14:32,092 |  INFO | test path length 4: AUC=0.9854, AP=0.9861, Acc=0.9219, F1=0.9254, Prec=0.8857, Rec=0.9688, samples=64
+2025-07-31 19:14:32,098 |  INFO | Per-hop evaluation completed!
+2025-07-31 19:14:32,098 |  INFO | Results saved to: per_hop_results.json
+2025-07-31 19:14:36,722 |  INFO | Using Apple Silicon GPU (MPS)
+2025-07-31 19:14:36,722 |  INFO | Device: mps
+2025-07-31 19:14:36,722 |  INFO | Loading test datasets...
+2025-07-31 19:14:36,722 |  INFO | Loading path-specific test datasets
+2025-07-31 19:14:36,850 |  INFO | Loaded test data for path length 3: 50 samples
+2025-07-31 19:14:36,975 |  INFO | Loaded test data for path length 4: 64 samples
+2025-07-31 19:14:37,100 |  INFO | Loaded test data for path length 5: 57 samples
+2025-07-31 19:14:37,229 |  INFO | Loaded test data for path length 6: 91 samples
+2025-07-31 19:14:37,229 |  INFO | Test: 262 samples, 135 pos, 127 neg, 0.515 pos ratio
+2025-07-31 19:14:37,229 |  INFO | Test path lengths: {3: 50, 4: 64, 5: 57, 6: 91}
+2025-07-31 19:14:37,229 |  INFO | Number of node features: 6176
+2025-07-31 19:14:37,249 |  INFO | Loading model from: batch_test/best_model.pt
+2025-07-31 19:14:37,266 |  INFO | Model loaded successfully! Best validation AUC: 0.9568491389348213
+2025-07-31 19:14:37,269 |  INFO | Starting per-hop evaluation...
+2025-07-31 19:14:40,233 |  INFO | Evaluating test path length 6...
+2025-07-31 19:14:42,961 |  INFO | test path length 6: AUC=0.9468, AP=0.9434, Acc=0.8901, F1=0.9038, Prec=0.8246, Rec=1.0000, samples=91
+2025-07-31 19:14:42,962 |  INFO | Evaluating test path length 3...
+2025-07-31 19:14:44,345 |  INFO | test path length 3: AUC=0.9497, AP=0.9639, Acc=0.9000, F1=0.9091, Prec=0.9259, Rec=0.8929, samples=50
+2025-07-31 19:14:44,346 |  INFO | Evaluating test path length 5...
+2025-07-31 19:14:45,874 |  INFO | test path length 5: AUC=0.8953, AP=0.8717, Acc=0.8596, F1=0.8571, Prec=0.8571, Rec=0.8571, samples=57
+2025-07-31 19:14:45,874 |  INFO | Evaluating test path length 4...
+2025-07-31 19:14:47,217 |  INFO | test path length 4: AUC=0.9854, AP=0.9861, Acc=0.9219, F1=0.9254, Prec=0.8857, Rec=0.9688, samples=64
+2025-07-31 19:14:47,223 |  INFO | Per-hop evaluation completed!
+2025-07-31 19:14:47,223 |  INFO | Results saved to: per_hop_results.json
+2025-07-31 19:15:07,583 |  INFO | Using Apple Silicon GPU (MPS)
+2025-07-31 19:15:07,583 |  INFO | Device: mps
+2025-07-31 19:15:07,583 |  INFO | Loading test datasets...
+2025-07-31 19:15:07,583 |  INFO | Loading path-specific test datasets
+2025-07-31 19:15:07,712 |  INFO | Loaded test data for path length 3: 50 samples
+2025-07-31 19:15:07,837 |  INFO | Loaded test data for path length 4: 64 samples
+2025-07-31 19:15:07,963 |  INFO | Loaded test data for path length 5: 57 samples
+2025-07-31 19:15:08,092 |  INFO | Loaded test data for path length 6: 91 samples
+2025-07-31 19:15:08,092 |  INFO | Test: 262 samples, 135 pos, 127 neg, 0.515 pos ratio
+2025-07-31 19:15:08,092 |  INFO | Test path lengths: {3: 50, 4: 64, 5: 57, 6: 91}
+2025-07-31 19:15:08,092 |  INFO | Number of node features: 6176
+2025-07-31 19:15:08,112 |  INFO | Loading model from: batch_test/best_model.pt
+2025-07-31 19:15:08,130 |  INFO | Model loaded successfully! Best validation AUC: 0.9568491389348213
+2025-07-31 19:15:08,132 |  INFO | Starting per-hop evaluation...
+2025-07-31 19:15:11,074 |  INFO | Evaluating test path length 6...
+2025-07-31 19:15:13,799 |  INFO | test path length 6: AUC=0.9468, AP=0.9434, Acc=0.8901, F1=0.9038, Prec=0.8246, Rec=1.0000, samples=91
+2025-07-31 19:15:13,800 |  INFO | Evaluating test path length 3...
+2025-07-31 19:15:15,176 |  INFO | test path length 3: AUC=0.9497, AP=0.9639, Acc=0.9000, F1=0.9091, Prec=0.9259, Rec=0.8929, samples=50
+2025-07-31 19:15:15,176 |  INFO | Evaluating test path length 5...
+2025-07-31 19:15:16,682 |  INFO | test path length 5: AUC=0.8953, AP=0.8717, Acc=0.8596, F1=0.8571, Prec=0.8571, Rec=0.8571, samples=57
+2025-07-31 19:15:16,682 |  INFO | Evaluating test path length 4...
+2025-07-31 19:15:18,014 |  INFO | test path length 4: AUC=0.9854, AP=0.9861, Acc=0.9219, F1=0.9254, Prec=0.8857, Rec=0.9688, samples=64
+2025-07-31 19:15:18,017 |  INFO | Per-hop evaluation completed!
+2025-07-31 19:15:18,017 |  INFO | Results saved to: per_hop_results.json
+2025-07-31 19:15:18,017 |  INFO | Simple results saved to: resultsfinal.txt
+2025-07-31 19:15:18,017 |  INFO | 
+==================================================
+2025-07-31 19:15:18,017 |  INFO | PER-HOP EVALUATION SUMMARY
+2025-07-31 19:15:18,017 |  INFO | ==================================================
+2025-07-31 19:15:18,017 |  INFO | Path Length 6:
+2025-07-31 19:15:18,017 |  INFO |   AUC: 0.9468
+2025-07-31 19:15:18,017 |  INFO |   AP: 0.9434
+2025-07-31 19:15:18,017 |  INFO |   Accuracy: 0.8901
+2025-07-31 19:15:18,017 |  INFO |   F1: 0.9038
+2025-07-31 19:15:18,017 |  INFO |   Precision: 0.8246
+2025-07-31 19:15:18,017 |  INFO |   Recall: 1.0000
+2025-07-31 19:15:18,017 |  INFO |   Samples: 91
+2025-07-31 19:15:18,017 |  INFO | 
+2025-07-31 19:15:18,017 |  INFO | Path Length 3:
+2025-07-31 19:15:18,017 |  INFO |   AUC: 0.9497
+2025-07-31 19:15:18,017 |  INFO |   AP: 0.9639
+2025-07-31 19:15:18,017 |  INFO |   Accuracy: 0.9000
+2025-07-31 19:15:18,018 |  INFO |   F1: 0.9091
+2025-07-31 19:15:18,018 |  INFO |   Precision: 0.9259
+2025-07-31 19:15:18,018 |  INFO |   Recall: 0.8929
+2025-07-31 19:15:18,018 |  INFO |   Samples: 50
+2025-07-31 19:15:18,018 |  INFO | 
+2025-07-31 19:15:18,018 |  INFO | Path Length 5:
+2025-07-31 19:15:18,018 |  INFO |   AUC: 0.8953
+2025-07-31 19:15:18,018 |  INFO |   AP: 0.8717
+2025-07-31 19:15:18,018 |  INFO |   Accuracy: 0.8596
+2025-07-31 19:15:18,018 |  INFO |   F1: 0.8571
+2025-07-31 19:15:18,018 |  INFO |   Precision: 0.8571
+2025-07-31 19:15:18,018 |  INFO |   Recall: 0.8571
+2025-07-31 19:15:18,018 |  INFO |   Samples: 57
+2025-07-31 19:15:18,018 |  INFO | 
+2025-07-31 19:15:18,018 |  INFO | Path Length 4:
+2025-07-31 19:15:18,018 |  INFO |   AUC: 0.9854
+2025-07-31 19:15:18,018 |  INFO |   AP: 0.9861
+2025-07-31 19:15:18,018 |  INFO |   Accuracy: 0.9219
+2025-07-31 19:15:18,018 |  INFO |   F1: 0.9254
+2025-07-31 19:15:18,018 |  INFO |   Precision: 0.8857
+2025-07-31 19:15:18,018 |  INFO |   Recall: 0.9688
+2025-07-31 19:15:18,018 |  INFO |   Samples: 64
+2025-07-31 19:15:18,018 |  INFO | 
+2025-07-31 19:16:02,813 |  INFO | Using Apple Silicon GPU (MPS)
+2025-07-31 19:16:02,813 |  INFO | Device: mps
+2025-07-31 19:16:02,813 |  INFO | Loading test datasets...
+2025-07-31 19:16:02,813 |  INFO | Loading path-specific test datasets
+2025-07-31 19:16:02,941 |  INFO | Loaded test data for path length 3: 50 samples
+2025-07-31 19:16:03,066 |  INFO | Loaded test data for path length 4: 64 samples
+2025-07-31 19:16:03,192 |  INFO | Loaded test data for path length 5: 57 samples
+2025-07-31 19:16:03,305 |  INFO | Loaded test data for path length 6: 91 samples
+2025-07-31 19:16:03,306 |  INFO | Test: 262 samples, 135 pos, 127 neg, 0.515 pos ratio
+2025-07-31 19:16:03,306 |  INFO | Test path lengths: {3: 50, 4: 64, 5: 57, 6: 91}
+2025-07-31 19:16:03,306 |  INFO | Number of node features: 6176
+2025-07-31 19:16:03,326 |  INFO | Loading model from: batch_test/best_model.pt
+2025-07-31 19:16:03,344 |  INFO | Model loaded successfully! Best validation AUC: 0.9568491389348213
+2025-07-31 19:16:03,346 |  INFO | Starting per-hop evaluation...
+2025-07-31 19:16:06,177 |  INFO | Evaluating test path length 6...
+2025-07-31 19:16:08,972 |  INFO | test path length 6: AUC=0.9468, AP=0.9434, Acc=0.8901, F1=0.9038, Prec=0.8246, Rec=1.0000, samples=91
+2025-07-31 19:16:08,972 |  INFO | Evaluating test path length 3...
+2025-07-31 19:16:10,343 |  INFO | test path length 3: AUC=0.9497, AP=0.9639, Acc=0.9000, F1=0.9091, Prec=0.9259, Rec=0.8929, samples=50
+2025-07-31 19:16:10,343 |  INFO | Evaluating test path length 5...
+2025-07-31 19:16:11,877 |  INFO | test path length 5: AUC=0.8953, AP=0.8717, Acc=0.8596, F1=0.8571, Prec=0.8571, Rec=0.8571, samples=57
+2025-07-31 19:16:11,877 |  INFO | Evaluating test path length 4...
+2025-07-31 19:16:13,173 |  INFO | test path length 4: AUC=0.9854, AP=0.9861, Acc=0.9219, F1=0.9254, Prec=0.8857, Rec=0.9688, samples=64
+2025-07-31 19:16:13,180 |  INFO | Per-hop evaluation completed!
+2025-07-31 19:16:13,180 |  INFO | Results saved to: per_hop_results.json
+2025-07-31 19:16:13,180 |  INFO | Simple results saved to: resultsfinal.txt
+2025-07-31 19:16:13,180 |  INFO | 
+==================================================
+2025-07-31 19:16:13,180 |  INFO | PER-HOP EVALUATION SUMMARY
+2025-07-31 19:16:13,180 |  INFO | ==================================================
+2025-07-31 19:16:13,180 |  INFO | Path Length 6:
+2025-07-31 19:16:13,180 |  INFO |   AUC: 0.9468
+2025-07-31 19:16:13,180 |  INFO |   AP: 0.9434
+2025-07-31 19:16:13,180 |  INFO |   Accuracy: 0.8901
+2025-07-31 19:16:13,180 |  INFO |   F1: 0.9038
+2025-07-31 19:16:13,180 |  INFO |   Precision: 0.8246
+2025-07-31 19:16:13,180 |  INFO |   Recall: 1.0000
+2025-07-31 19:16:13,180 |  INFO |   Samples: 91
+2025-07-31 19:16:13,181 |  INFO | 
+2025-07-31 19:16:13,181 |  INFO | Path Length 3:
+2025-07-31 19:16:13,181 |  INFO |   AUC: 0.9497
+2025-07-31 19:16:13,181 |  INFO |   AP: 0.9639
+2025-07-31 19:16:13,181 |  INFO |   Accuracy: 0.9000
+2025-07-31 19:16:13,181 |  INFO |   F1: 0.9091
+2025-07-31 19:16:13,181 |  INFO |   Precision: 0.9259
+2025-07-31 19:16:13,181 |  INFO |   Recall: 0.8929
+2025-07-31 19:16:13,181 |  INFO |   Samples: 50
+2025-07-31 19:16:13,181 |  INFO | 
+2025-07-31 19:16:13,181 |  INFO | Path Length 5:
+2025-07-31 19:16:13,181 |  INFO |   AUC: 0.8953
+2025-07-31 19:16:13,181 |  INFO |   AP: 0.8717
+2025-07-31 19:16:13,181 |  INFO |   Accuracy: 0.8596
+2025-07-31 19:16:13,181 |  INFO |   F1: 0.8571
+2025-07-31 19:16:13,181 |  INFO |   Precision: 0.8571
+2025-07-31 19:16:13,181 |  INFO |   Recall: 0.8571
+2025-07-31 19:16:13,181 |  INFO |   Samples: 57
+2025-07-31 19:16:13,181 |  INFO | 
+2025-07-31 19:16:13,181 |  INFO | Path Length 4:
+2025-07-31 19:16:13,181 |  INFO |   AUC: 0.9854
+2025-07-31 19:16:13,181 |  INFO |   AP: 0.9861
+2025-07-31 19:16:13,181 |  INFO |   Accuracy: 0.9219
+2025-07-31 19:16:13,181 |  INFO |   F1: 0.9254
+2025-07-31 19:16:13,181 |  INFO |   Precision: 0.8857
+2025-07-31 19:16:13,181 |  INFO |   Recall: 0.9688
+2025-07-31 19:16:13,181 |  INFO |   Samples: 64
+2025-07-31 19:16:13,181 |  INFO | 

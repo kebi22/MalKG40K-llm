@@ -1,0 +1,51 @@
+DETAILED ANALYSIS - Test Results by Path Length
+================================================================================
+
+PATH LENGTH 3
+----------------------------------------
+Number of samples: 50
+Positive ratio: 0.5600 (56.0%)
+Loss: 0.5807
+AUC: 0.9578
+Average Precision: 0.9693
+Accuracy: 0.8400
+F1-Score: 0.8621
+Precision: 0.8333
+Recall: 0.8929
+
+PATH LENGTH 4
+----------------------------------------
+Number of samples: 64
+Positive ratio: 0.5000 (50.0%)
+Loss: 0.5907
+AUC: 0.9814
+Average Precision: 0.9831
+Accuracy: 0.9062
+F1-Score: 0.9118
+Precision: 0.8611
+Recall: 0.9688
+
+PATH LENGTH 5
+----------------------------------------
+Number of samples: 57
+Positive ratio: 0.4912 (49.1%)
+Loss: 0.6226
+AUC: 0.8892
+Average Precision: 0.8618
+Accuracy: 0.8772
+F1-Score: 0.8772
+Precision: 0.8621
+Recall: 0.8929
+
+PATH LENGTH 6
+----------------------------------------
+Number of samples: 91
+Positive ratio: 0.5165 (51.6%)
+Loss: 0.6093
+AUC: 0.9439
+Average Precision: 0.9389
+Accuracy: 0.8681
+F1-Score: 0.8868
+Precision: 0.7966
+Recall: 1.0000
+
